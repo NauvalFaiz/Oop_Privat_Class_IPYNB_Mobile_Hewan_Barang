@@ -4,9 +4,8 @@
 
 **Mata Pelajaran** : Koding dan Kecerdasan Artifisial  
 **Materi** : Pemrograman Berorientasi Objek (OOP)  
-**Kelas/Fase** : XI / Fase F  
-**Nama Siswa** : ………………………………  
-**Tanggal** : ………………………………
+**Kelas**  : XI RPL 7
+**Nama Siswa** : Nauval Faiz Luthf Hisyam
 
 ---
 
